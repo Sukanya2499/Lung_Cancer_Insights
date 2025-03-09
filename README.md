@@ -37,7 +37,37 @@ This dashboard serves as a powerful analytical tool for researchers, healthcare 
 ![Screenshot (184)](https://github.com/user-attachments/assets/8988f9da-f4f3-4ce3-aa15-81dd07f4824b)
 
 
+## Smoking and Risk Factors - Power BI Dashboard  
 
+### **Description:**  
+This Power BI dashboard provides a comprehensive analysis of smoking-related risk factors and their impact on lung cancer. It highlights key statistics, compares smoking habits with lung cancer cases, and examines other contributing factors such as passive smoking and air pollution.  
+
+### **Key Metrics & Visuals:**  
+- **KPIs (Displayed using Cards):**  
+  - **Total Smokers:** 88.34K  
+  - **Average Years of Smoking:** 14.24 years  
+  - **High-Risk Patients (Risk Score > 5):** 205K  
+  - **Early Detection Rate:** 28.37%  
+
+- **Visualizations:**  
+  - **Smoking vs. Lung Cancer Cases** (Pie Chart)  
+  - **Years of Smoking vs. Cancer Stage** (Horizontal Bar Chart)  
+  - **Passive Smoking Impact on Cancer Cases** (Pie Chart)  
+  - **Lung Cancer Diagnosis by Smoking Impact Score** (Area Chart)  
+  - **Smoking and Air Pollution Exposure Relationship** (Horizontal Bar Chart)  
+  - **Early Detection Rate vs. Cancer Stage** (Pie Chart)  
+
+- **Slicers:**  
+  - Users can filter data by smoking habits, passive smoking exposure, risk score, and air pollution levels to analyze trends and risk factors in more detail.  
+
+---
+
+### **Business Insights:**  
+1. **Smoking & Lung Cancer:** The data confirms that **more smokers are diagnosed with lung cancer compared to non-smokers**, reinforcing the well-established link between smoking and lung cancer risk.  
+2. **Years of Smoking & Cancer Stage:** No clear correlation was found between the **number of years a person has smoked and the stage at which cancer is diagnosed**. This suggests that other factors, such as genetics and lifestyle, may also play a significant role in cancer progression.  
+3. **Passive Smoking Impact:** Surprisingly, **non-passive smokers have a higher lung cancer diagnosis rate than passive smokers**, indicating that other causes—such as genetics, occupational hazards, or environmental pollutants—might have a stronger influence on lung cancer cases.  
+4. **Air Pollution & Smoking:** The relationship between **smoking and air pollution exposure** provides valuable insights into how combined environmental and lifestyle factors contribute to lung cancer risk.  
+5. **Early Detection & Cancer Stage:** No significant pattern was found in the **Early Detection Rate vs. Cancer Stage analysis**, suggesting that early detection may not always be linked to the stage at which cancer is diagnosed. This highlights the need for improved screening programs to ensure timely identification of lung cancer cases.  
 
 
 
